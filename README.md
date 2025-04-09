@@ -30,7 +30,7 @@ This project is licensed under the MIT license.
   
   ## Questions
   Please submit questions at the following links
-  Email: [mdavi359@yahoo.com](mailto:mdavi359@yahoo.com).
-  Github: [mdavi89](https://github.com/mdavi89).
+  Email: [makaylaj14@gmail.com](mailto:makaylaj14@gmail.com).
+  Github: [makaylaj14](https://github.com/makaylaj14).
 
-  Launched Page: [Learning Management System]([https://dulcet-crumble-fbb1d1.netlify.app/](https://learning-management-system-lms-2-snrp.onrender.com/)).
+  Launched Page: https://learning-management-system-lms-1-il4z.onrender.com/
